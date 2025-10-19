@@ -13,7 +13,7 @@ This repository contains sample codes for the **"Programming 2"** course, taught
 
 ---
 
-## 🚨 Executing Codes in IntelliJ
+## 🚨 Executing Codes in IntelliJ Idea
 
 The Professor uses [IntelliJ Idea](https://lp.jetbrains.com/intellij-idea-promo/?source=google&medium=cpc&campaign=EMEA_en_WEST_IDEA_Branded&term=intellij%20idea&content=693349187751&gad_source=1&gad_campaignid=9736965262&gbraid=0AAAAADloJzgLJ0KglqxNKzfSY3ffICtBY&gclid=CjwKCAjwmNLHBhA4EiwA3ts3mXBqC_wBkWpLeabxqiSjmYIJDxiBvmkoh7-fccwY4SX3N5mE3JzLORoClzAQAvD_BwE) as the main IDE for the course.
 
