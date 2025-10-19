@@ -20,6 +20,6 @@ The Professor uses [IntelliJ Idea](https://lp.jetbrains.com/intellij-idea-promo/
 If you are not familiar with it, here is how you can open the IDE:
 
 1) After downloading IntelliJ, you should find a `Idea-IC` directory on your laptop.
-2) From the `bin` subdirectory, launch`./idea.sh` from the terminal to open the IDE.
+2) From the `bin` subdirectory, launch `./idea.sh` from the terminal to open the IDE.
 
 ---
